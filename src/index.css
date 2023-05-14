@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: Roboto, Arial, sans-serif;
+}
+.thumb { height: 50px }
+.inputCount{
+    width: 20px!important;
+}
+td {
+    vertical-align: middle;
+}
